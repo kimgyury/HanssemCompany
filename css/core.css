@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* core.css - 전체사이즈 공통핵심(초기셋팅, 웹폰트)*/
+
+/*웹폰트*/
+@font-face{
+	font-family:'Ubuntu';
+	src:url('../fonts/UbuntuCondensed-Regular.woff') format('woff');
+}
+
+@font-face{
+	font-family: Nanum;
+	src: url(../font/NanumGothic.eot) format("eot"), url(../font/NanumGothic.woff) format("woff"),
+	url(../fonts/NanumGothic.ttf) format("ttf");
+}
+@font-face{
+	font-family: NanumM;
+	src: url(../font/NanumMyeongjo.eot) format("eot"), url(../font/NanumMyeongjo.woff) format("woff"),
+	url(../fonts/NanumMyeongjo.ttf) format("ttf");
+}
+
+html,body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;/*보이는 화면 기준*/
+}
+
+body{
+/*	background-image: url(../images/bg.png);전체반복됨*/
+	font-family: Nanum, "맑은 고딕";
+	font-size: 15px;/*글자크기 기본은 16px(12pt)*/
+	letter-spacing: -1px;/*글자간격(기본값은 0)*/
+	overflow-x: hidden;/*가로 스크롤 안생기게함*/
+}
+body>*{
+	overflow: hidden;/*가로 스크롤 안생기게함*/
+}
+img{
+	border:none;/*이미지링크시 보더없앰.*/
+	vertical-align: bottom;/*이미지를 박스에 넣었을때 하단 간극이 생기는 현상을 해결함!!*/
+}
+a{/*링크 기본 변경*/
+	color: #222;
+	text-decoration: none;
+}
+ul,ol{/*3無*/
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+ul::after, ol::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+li,dl{/*옆으로 흐르게*/
+	float: left;
+}
+
+
+/*태그 초기화 설정*/
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,
+blockquote,pre,abbr,address,cite,code,del,dfn,em,img,
+ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,
+fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,
+article,aside,canvas,details,figcaption,figure,footer,header,hgroup,
+menu,nav,section,summary,time,mark,audio,video,button{margin:0; padding:0;}
+
+/*html5 새로운 태그들 이전 브라우저에서 block로 해석되게 셋팅*/
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {  display: block; }
+
+
+
+
+
+
+
