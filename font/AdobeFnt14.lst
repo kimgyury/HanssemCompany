@@ -1,0 +1,123 @@
+%!Adobe-FontList 1.14
+%Locale:0x412
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\NanumGothic.eot
+FileModTime:1447055602
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\NanumGothic.woff
+FileModTime:1447055630
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\NanumMyeongjo.eot
+FileModTime:1516691161
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumMyeongjo
+FamilyName:NanumMyeongjo
+StyleName:Regular
+FullName:NanumMyeongjo
+MenuName:나눔명조
+StyleBits:0
+FamilyNameNative:나눔명조
+StyleNameNative:Regular
+FullNameNative:나눔명조
+WritingScript:Korean
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\NanumMyeongjo.ttf
+DataFormat:sfntData
+FileLength:3839464
+FileModTime:1411621660
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\NanumMyeongjo.woff
+FileModTime:1516691173
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumMyeongjoBold
+FamilyName:NanumMyeongjo
+StyleName:Bold
+FullName:NanumMyeongjoBold
+MenuName:나눔명조
+StyleBits:0
+FamilyNameNative:나눔명조
+StyleNameNative:Bold
+FullNameNative:나눔명조 Bold
+WritingScript:Korean
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\NanumMyeongjoBold.ttf
+DataFormat:sfntData
+FileLength:4183592
+FileModTime:1411621660
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:NanumMyeongjoExtraBold
+FamilyName:NanumMyeongjo
+StyleName:ExtraBold
+FullName:NanumMyeongjoExtraBold
+MenuName:나눔명조 ExtraBold
+StyleBits:0
+FamilyNameNative:나눔명조
+StyleNameNative:ExtraBold
+FullNameNative:나눔명조 ExtraBold
+WritingScript:Korean
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\NanumMyeongjoExtraBold.ttf
+DataFormat:sfntData
+FileLength:4788696
+FileModTime:1411621660
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UbuntuCondensed-Regular
+FamilyName:Ubuntu Condensed
+StyleName:Regular
+FullName:Ubuntu Condensed
+MenuName:Ubuntu Condensed
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\UbuntuCondensed-Regular.ttf
+DataFormat:sfntData
+FileLength:350444
+FileModTime:1317740400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\손가영180118\[오후반170918-10회차]스마트기기UIUX디자인-박석호강사\102.2차포폴 백업\2018.01.24\Font\UbuntuCondensed-Regular.woff
+FileModTime:1478346682
+%EndFont
+
